@@ -1,0 +1,15 @@
+[project]
+name = "financialstatement"
+version = "0.1.0"
+description = "financialstatement"
+authors = [
+    {name = "joony209", email = "pjyrhee@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.9"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
